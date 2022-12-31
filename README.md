@@ -1,6 +1,7 @@
 Collection of exercise solved in school (Develhope) to deepen my knowledge of Java
 
-achieve encapsulation for a class Person that has the following attributes:
+Exercise: Encapsulation 2
+achieve encapsulation using Lombok for a class Person that has the following attributes:
 name
 surname
 height (a double)
